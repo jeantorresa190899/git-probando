@@ -1,6 +1,6 @@
 'use strict'
 
-console.log("PROBANDO GIT");
+console.log("PROBANDO GIT, HOLA");
 
 //Durante la inicialización de la página
 $('.toast').toast();
